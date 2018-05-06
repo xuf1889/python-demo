@@ -7,6 +7,7 @@ class Student(object):
         print('name = ' , self.__name , ',age = ' , self.__age)
 
 
-stu = Student('张三' , 16)
+"""stu = Student('张三' , 16)
 print(stu)
 stu.print_info();
+"""
